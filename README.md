@@ -17,6 +17,9 @@
 <div> 
   <a href="https://www.instagram.com/g.deluchi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+  <a href ="https://www.linkedin.com/in/gabriel-deluchi-777715254/">
+  <img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
+
   <a href="https://github.com/G4B1D4L1U41?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G4B1D4L1U41&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
@@ -25,6 +28,8 @@
   
   <a href = "mailto:gabrieldeluchi6@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
   
  
   ![Snake animation](https://github.com/matheuspossenti/matheuspossenti/blob/output/github-contribution-grid-snake.svg)
