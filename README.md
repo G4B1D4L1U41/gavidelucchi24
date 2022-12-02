@@ -14,7 +14,7 @@
   <img align="center" alt="G4B1D4L1U41-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##Conheça minhas Redes Sociais!
+  ## Conheça Minhas Redes Socias!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC4gkE7SskxOKEuEAA5g62Ag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
