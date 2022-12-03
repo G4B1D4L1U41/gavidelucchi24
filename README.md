@@ -1,7 +1,7 @@
 ## Oi eu sou o Gabriel Deluchi, estudante de programação!
 <div align="center">
   <a href="https://github.com/G4B1D4L1U41">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspossenti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDeluchi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4B1D4L1U41&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
